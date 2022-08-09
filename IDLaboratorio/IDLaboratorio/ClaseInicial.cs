@@ -9,5 +9,6 @@ namespace IDLaboratorio
     internal class ClaseInicial
     {
 
+
     }
 }
